@@ -50,6 +50,7 @@ node_modules/
 # Environment files (passwords/keys)
 .env
 backend/.env
+backend/db.js
 
 # Firebase generated (contains API keys)
 lib/firebase_options.dart
